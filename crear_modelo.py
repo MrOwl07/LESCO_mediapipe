@@ -9,7 +9,7 @@ import pickle
 columnas = ['letra'] + [f'col{i}' for i in range(1, 1 + 63)]  # Ajusta 63 si hay otro número de columnas
 
 # Cargar datos con encabezados personalizados
-df = pd.read_csv('prueba_mariana.csv', header=None, names=columnas)
+df = pd.read_csv('prueba_final.csv', header=None, names=columnas)
 
 # Separar características y etiquetas
 X = df.drop('letra', axis=1)
@@ -20,7 +20,7 @@ le = LabelEncoder()
 y_encoded = le.fit_transform(y)
 
 # Guardar el codificador
-with open('label_encoder.pkl', 'wb') as f:
+with open('label_encoder2.pkl', 'wb') as f:
     pickle.dump(le, f)
 
 # Entrenar modelo

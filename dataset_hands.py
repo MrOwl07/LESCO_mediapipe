@@ -15,7 +15,7 @@ cap = cv2.VideoCapture(0)
 letra_actual = "A"
 
 # Abrir archivo CSV
-with open('prueba_mariana.csv', mode='a', newline='') as archivo:
+with open('prueba_final.csv', mode='a', newline='') as archivo:
     escritor = csv.writer(archivo)
 
     while True:
