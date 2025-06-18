@@ -186,7 +186,7 @@ Scikit-learn developers, "Scikit-learn: Machine Learning in Python – Stable Do
 ---
 
 ## Agradecimientos Especiales
-- Esteban Arias  
+- Beker Esteban Martínez Arias
 - Eliana Mena García  
 - Keylin Beltrán Hernández  
 - Graciela Lackwood - Intérprete LESCO  
