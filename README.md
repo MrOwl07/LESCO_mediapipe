@@ -133,7 +133,7 @@ pipenv shell        # activa el entorno
 ## Limitaciones actuales
 
 - **Letras con movimiento:** Ch, J, LL, Ñ, RR, Z  
-- **Palabras dinámicas:** “Hola”, “Gracias”, “Perdón”, verbs como “comer”, “beber”, “ir”  
+- **Palabras dinámicas 
 - **Expresiones faciales:** emociones y marcadores gramaticales  
 
 ---
