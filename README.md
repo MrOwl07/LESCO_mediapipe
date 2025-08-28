@@ -156,6 +156,14 @@ Copyright (c) 2025 [Mariana Lai Sánchez]
 Todos los derechos reservados.  
 Queda prohibido el uso, copia, modificación o distribución de este código total o parcial sin autorización escrita del autor.
 
+Copyright (c) 2025 [Mariana Lai Sánchez]
+
+All rights reserved.
+Any use, copying, modification, or distribution of this code, in whole or in part, is strictly prohibited without the author’s written permission.
+
+This code is provided solely for personal and educational purposes.
+Any commercial use requires the author’s written authorization.
+
 ## Referencias
 Google, "MediaPipe Hand Landmarker," https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker
 
