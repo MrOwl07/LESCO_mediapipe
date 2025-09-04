@@ -132,7 +132,7 @@ pipenv shell        # activa el entorno
 
 ## Limitaciones actuales
 
-- **Letras con movimiento:** Ch, J, LL, Ñ, RR, Z  
+- **Letras con movimiento:** J, LL, Ñ, RR, Z  
 - **Palabras dinámicas:** “Hola”, “Gracias”, “Perdón”, verbs como “comer”, “beber”, “ir”  
 - **Expresiones faciales:** emociones y marcadores gramaticales  
 
@@ -154,27 +154,17 @@ pipenv shell        # activa el entorno
 Este proyecto se distribuye bajo la Licencia MIT.
 
 ```text
-MIT License
 
-Copyright (c) 2025 Mariana Lai Sánchez
+Copyright (c) 2025 [Mariana Lai Sánchez]
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the “Software”), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Todos los derechos reservados.
+Queda prohibido el uso, copia, modificación o distribución de este código total o parcial sin autorización escrita del autor.
 
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
+Copyright (c) 2025 [Mariana Lai Sánchez]
 
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
+All rights reserved. Any use, copying, modification, or distribution of this code, in whole or in part, is strictly prohibited without the author’s written permission.
+
+This code is provided solely for personal and educational purposes. Any commercial use requires the author’s written authorization.
 ```
 ---
 

@@ -5,7 +5,7 @@ import joblib
 
 # Cargar el modelo y el codificador
 modelo = joblib.load("modelo_letras.pkl")
-le = joblib.load("label_encoder2.pkl")
+le = joblib.load("label_encoder4.pkl")
 
 # Inicializar MediaPipe
 mp_hands = mp.solutions.hands

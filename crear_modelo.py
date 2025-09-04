@@ -20,7 +20,7 @@ le = LabelEncoder()
 y_encoded = le.fit_transform(y)
 
 # Guardar el codificador
-with open('label_encoder2.pkl', 'wb') as f:
+with open('label_encoder4.pkl', 'wb') as f:
     pickle.dump(le, f)
 
 # Entrenar modelo
