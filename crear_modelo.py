@@ -9,11 +9,7 @@ import pickle
 columnas = ['letra'] + [f'col{i}' for i in range(1, 1 + 63)]  # Ajusta 63 si hay otro número de columnas
 
 # Cargar datos con encabezados personalizados
-<<<<<<< HEAD
 df = pd.read_csv('prueba.csv', header=None, names=columnas)
-=======
-df = pd.read_csv('prueba_final.csv', header=None, names=columnas)
->>>>>>> fb2e2c4d97d633a45ab88d8a91b6887c347e44e6
 
 # Separar características y etiquetas
 X = df.drop('letra', axis=1)
