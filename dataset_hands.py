@@ -15,8 +15,13 @@ cap = cv2.VideoCapture(0)
 # Variable para almacenar la letra actual que se está capturando
 letra_actual = "A"
 
+<<<<<<< HEAD
 # Abre (o crea) el archivo CSV en modo de añadir ('a') para guardar los datos
 with open('prueba.csv', mode='a', newline='') as archivo:
+=======
+# Abrir archivo CSV
+with open('prueba_final.csv', mode='a', newline='') as archivo:
+>>>>>>> fb2e2c4d97d633a45ab88d8a91b6887c347e44e6
     escritor = csv.writer(archivo)
 
     while True:

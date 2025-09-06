@@ -11,7 +11,7 @@ import pandas as pd
 modelo = joblib.load('modelo_letras.pkl')
 
 # Cargar el LabelEncoder
-with open('label_encoder.pkl', 'rb') as f:
+with open('label_encoder4.pkl', 'rb') as f:
     label_encoder = pickle.load(f)
 
 # Inicializar MediaPipe Hands
@@ -25,7 +25,7 @@ cap = cv2.VideoCapture(0)
 palabra = []
 
 print("Presiona 'ESPACIO' para capturar una letra (5 segundos)")
-print("Presiona 'ESC' para salir y mostrar la palabra final")
+print("Presiona 'ESC' para salir y mostrar la palabra final"),
 
 while True:
     predicciones = []
